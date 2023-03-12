@@ -46,7 +46,7 @@
       <input type="checkbox" name="training" value="training"> I will do well if trained<br>
       <input type="checkbox" name="full" value="full" checked> Full time<br>
       <input type="checkbox" name="part" value="part" checked> Part time<br>
-      <input type="checkbox" name="rules" value="rules" checked> Will follow all the rules and procedures<br>
+      <input type="checkbox" name="rules" value="rules" checked> Will follow all the rules and regulations<br>
     </p>
   </fieldset>
   <style>
